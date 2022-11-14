@@ -1,0 +1,10 @@
+export '../screens/initial_screen.dart';
+export '../screens/historial_screen.dart';
+export '../screens/home_screen.dart';
+export '../screens/read_screen.dart';
+export '../screens/mapa_screen.dart';
+export '../screens/numeros_screen.dart';
+export '../screens/inicio_screen.dart';
+export '../screens/registro_infante_screen.dart';
+export '../screens/registro_screen.dart';
+export '../screens/agregar_contacto.dart';
